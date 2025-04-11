@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nico
-- 👀 I’m interested in Machine Learning & Web Development
+- 👀 I’m interested in Machine Learning e.g. LLM & Full-Stack Web Development
 
 <!---
 nidrobe/nidrobe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
