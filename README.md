@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nico
-- 👀 Interested in Machine Learning & Full-Stack Web Development
+- 👀 Interested in Generative AI & Full-Stack Web Development
 - 👨‍💻 Currently learning Vue.js and Django. 
 
 <!---
